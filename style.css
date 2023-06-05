@@ -299,9 +299,16 @@ h1 {
     }
 
     .section-div {
-        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOW25izG6Qe6TyT2ZrtdQIUlaTr4kxeuoZaQ&usqp=CAU);
+        background-image: url(img/yohan.jfif);
         background-repeat: no-repeat;
         background-size: cover;
+    }
+    
+    .intro {
+        width: 100%;
+        padding: 10% 10%;
+        background-color: rgba(100, 100, 100, 0.7);
+        width: 215px;
     }
 
     header {
